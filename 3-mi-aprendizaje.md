@@ -1,3 +1,1 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+La práctica de Docker Compose, integrando múltiples servicios y aplicando buenas prácticas como volúmenes persistentes, variables de entorno, healthchecks, y redes. Noté la importancia de gestionar dependencias entre servicios y de utilizar herramientas de contenedores para los entornos. Resolví un error que tuve en el segundo ejercicio con el servicio sonarqube-postgresql que decía obsoleto y tenia problemas con la contraseña del postgres.
